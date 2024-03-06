@@ -1,0 +1,50 @@
+.container{
+    width: 100vh;
+    height: auto;
+}
+
+.container .container-contains{
+    position: absolute;
+    left: 26vw;
+    top: 10rem;
+}
+
+
+.box {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    display: inline-block;
+}
+
+.red {
+    background-color: red;
+    border: 2px solid black;
+}
+
+.green {
+    background-color: green;
+    border: 2px solid black;
+}
+
+.blue {
+    background-color: blue;
+    border: 2px solid black;
+}
+
+.yellow {
+    background-color: yellow;
+    border: 2px solid black;
+}
+.y{
+    background-color: yellow;
+}
+.b{
+    background-color: blue;
+}
+.g{
+    background-color: green;
+}
+.r{
+    background-color: red;
+}
